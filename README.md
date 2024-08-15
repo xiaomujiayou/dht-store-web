@@ -8,4 +8,4 @@
 
 #### Demo
 
-https://raw.githubusercontent.com/xiaomujiayou/dht-store-web/master/_doc/demo.mp4
+![效果演示](_doc/demo.gif "效果演示")
